@@ -16,7 +16,7 @@ This project is a Diabetes Prediction API built using FastAPI, which implements 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/diabetes-prediction-api.git
+   git clone https://github.com/ahmadZawW/diabetes-prediction-api.git
    cd diabetes-prediction-api
    ```
 
